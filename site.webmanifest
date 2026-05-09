@@ -1,0 +1,9 @@
+{
+  "name": "QUEBEC.AI",
+  "short_name": "QUEBEC.AI",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#001a48",
+  "theme_color": "#001a48",
+  "description": "QUEBEC.AI — Frontier. AI‑First. Sovereign."
+}

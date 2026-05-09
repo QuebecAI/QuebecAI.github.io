@@ -1,0 +1,14 @@
+./FILE_MANIFEST.txt
+./README_UPLOAD.txt
+./assets/css/styles.css
+./assets/images/og-quebec-ai.jpg
+./assets/images/og-quebec-ai.webp
+./assets/images/quebec-ai-mobile-1440x1800.jpg
+./assets/images/quebec-ai-mobile-1440x1800.webp
+./assets/images/quebec-ai-sovereign-hero-2560x1440.jpg
+./assets/images/quebec-ai-sovereign-hero-2560x1440.webp
+./favicon.svg
+./index.html
+./robots.txt
+./site.webmanifest
+./sitemap.xml
