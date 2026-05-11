@@ -1,8 +1,0 @@
-{
-  "capability_id": "CAP-XXXX",
-  "origin_docket": "",
-  "capability_type": "template | workflow | checklist | playbook | agent_role_map | validation_rule",
-  "description": "",
-  "reuse_conditions": [],
-  "review_status": "draft"
-}
