@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-labelledby="title desc">
+<title>QUEBEC.AI gold fleur-de-lys seal</title>
+<desc>A premium metallic gold fleur-de-lys with glowing star accents on a deep navy circular seal.</desc>
+<defs>
+  <radialGradient id="navy" cx="50%" cy="42%" r="70%"><stop offset="0" stop-color="#122b4a"/><stop offset="0.62" stop-color="#06111f"/><stop offset="1" stop-color="#02060c"/></radialGradient>
+  <linearGradient id="gold" x1="0" x2="1" y1="0" y2="1"><stop offset="0" stop-color="#fff6bf"/><stop offset="0.18" stop-color="#f5c65a"/><stop offset="0.38" stop-color="#a86b18"/><stop offset="0.55" stop-color="#ffe18a"/><stop offset="0.78" stop-color="#c58a2e"/><stop offset="1" stop-color="#fff2b0"/></linearGradient>
+  <linearGradient id="darkGold" x1="0" x2="1"><stop offset="0" stop-color="#6f410c"/><stop offset="0.52" stop-color="#f1b94a"/><stop offset="1" stop-color="#6f410c"/></linearGradient>
+  <filter id="glow" x="-70%" y="-70%" width="240%" height="240%"><feGaussianBlur stdDeviation="6" result="b"/><feColorMatrix in="b" type="matrix" values="1 0 0 0 1 0 0.75 0 0 0.48 0 0 0.2 0 0 0 0 0.9 0"/><feMerge><feMergeNode/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <filter id="soft" x="-60%" y="-60%" width="220%" height="220%"><feDropShadow dx="0" dy="2" stdDeviation="3" flood-color="#f0b94b" flood-opacity="0.62"/></filter>
+</defs>
+<circle cx="128" cy="128" r="119" fill="url(#navy)" stroke="url(#gold)" stroke-width="3"/>
+<circle cx="128" cy="128" r="104" fill="none" stroke="#dba847" stroke-opacity=".34" stroke-width="1"/>
+<g filter="url(#glow)">
+  <path fill="url(#gold)" stroke="#5d3507" stroke-width="2" d="M128 24c20 30 27 55 14 76 19-20 43-25 61-5-22 5-37 19-42 41 18-18 38-21 52-7-24 12-41 33-49 61 9 0 18-1 27-3-12 13-30 22-53 24v24h-20v-24c-23-2-41-11-53-24 9 2 18 3 27 3-8-28-25-49-49-61 14-14 34-11 52 7-5-22-20-36-42-41 18-20 42-15 61 5-13-21-6-46 14-76z"/>
+  <rect x="77" y="151" width="102" height="15" rx="7" fill="url(#darkGold)" stroke="#ffe18a" stroke-width="1"/>
+  <path d="M128 47c12 23 14 42 0 60-14-18-12-37 0-60z" fill="#fff0ad" opacity=".56"/>
+</g>
+<g fill="url(#gold)" filter="url(#soft)">
+  <path d="M128 7l5 15 15 5-15 5-5 15-5-15-15-5 15-5z"/>
+  <path d="M42 54l3 9 9 3-9 3-3 9-3-9-9-3 9-3z"/>
+  <path d="M214 54l3 9 9 3-9 3-3 9-3-9-9-3 9-3z"/>
+  <path d="M50 210l3 9 9 3-9 3-3 9-3-9-9-3 9-3z"/>
+  <path d="M206 210l3 9 9 3-9 3-3 9-3-9-9-3 9-3z"/>
+</g>
+</svg>

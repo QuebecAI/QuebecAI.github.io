@@ -1,0 +1,43 @@
+{
+  "docket_id": "ED-001-ai-first-executive-intelligence-briefing",
+  "mission": "Turn a strategic enterprise question into a board-ready intelligence briefing.",
+  "agent_constellation": [
+    "research_agents",
+    "market_agents",
+    "governance_agents",
+    "risk_agents",
+    "synthesis_agents",
+    "validator_agents"
+  ],
+  "work_products": [
+    "executive_briefing",
+    "opportunity_map",
+    "risk_frame",
+    "decision_map",
+    "evidence_notes"
+  ],
+  "validation_checks": [
+    "clarity",
+    "usefulness",
+    "evidence_quality",
+    "risk_framing",
+    "reusability",
+    "claim_discipline"
+  ],
+  "claim_boundary": "Flagship demonstration of the Proof Room format; not a claim of achieved AGI, achieved ASI, empirical SOTA, or external benchmark victory.",
+  "reusable_assets": [
+    "AI-First briefing template",
+    "question map",
+    "validation checklist",
+    "executive synthesis pattern",
+    "capability archive entry"
+  ],
+  "next_cycle_improvements": [
+    "faster scoping",
+    "better questions",
+    "clearer validation",
+    "stronger reuse",
+    "cleaner governance review"
+  ],
+  "review_status": "public demonstration; ready for future live cases, benchmarked tasks, replay records, delayed outcomes, and independent review"
+}

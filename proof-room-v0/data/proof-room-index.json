@@ -1,0 +1,12 @@
+{
+  "title": "QUEBEC.AI Proof Room",
+  "url": "https://QuebecAI.github.io/proof-room/",
+  "dockets": [
+    "ED-001-ai-first-executive-intelligence-briefing"
+  ],
+  "proofbundles": [
+    "proofbundle.example.json"
+  ],
+  "capability_archive": "initialized",
+  "review": "available"
+}

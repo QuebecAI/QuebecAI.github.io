@@ -1,0 +1,30 @@
+{
+  "archive": "QUEBEC.AI Capability Archive",
+  "purpose": "Store what worked so future missions start stronger.",
+  "entries": [
+    {
+      "name": "AI-First briefing template",
+      "use": "Board-ready structure for recurring executive intelligence work."
+    },
+    {
+      "name": "Question map",
+      "use": "Transforms broad strategic questions into bounded, validated work."
+    },
+    {
+      "name": "Validation checklist",
+      "use": "Checks clarity, usefulness, evidence quality, risk framing, and reusability."
+    },
+    {
+      "name": "Risk framing pattern",
+      "use": "Makes governance, uncertainty, and safety visible before action."
+    },
+    {
+      "name": "Executive synthesis pattern",
+      "use": "Condenses agentic work into decision-grade briefings."
+    },
+    {
+      "name": "Reusable proof-docket structure",
+      "use": "Makes future work easier to document, review, and improve."
+    }
+  ]
+}
