@@ -1,0 +1,7 @@
+# QUEBEC.AI Proof Room
+
+The QUEBEC.AI Proof Room is the public evidence layer for showing how successful enterprise work can become governed, verified, reusable AI-First capability.
+
+Key concepts: Evidence Dockets, ProofBundles, validators, Capability Archive, claim boundaries, reusable capability, compounding future work.
+
+Target URL: https://QuebecAI.github.io/proof-room/
