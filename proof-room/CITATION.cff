@@ -1,0 +1,6 @@
+cff-version: 1.2.0
+title: QUEBEC.AI Proof Room
+authors:
+  - family-names: Boucher
+    given-names: Vincent
+message: Public evidence layer for QUEBEC.AI.

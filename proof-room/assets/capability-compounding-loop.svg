@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 310" role="img" aria-labelledby="title desc">
+<title id="title">QUEBEC.AI capability compounding loop</title><desc id="desc">Mission moves to agents, validation, evidence, capability archive, and stronger future work.</desc>
+<defs>
+  <linearGradient id="gold" x1="0" x2="1"><stop offset="0" stop-color="#fff3bd"/><stop offset=".45" stop-color="#d5a24a"/><stop offset="1" stop-color="#8f5b12"/></linearGradient>
+  <filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="1600" height="310" rx="28" fill="#061326"/>
+<g font-family="Inter, Arial, sans-serif" text-anchor="middle">
+  <g fill="none" stroke="url(#gold)" stroke-width="2" opacity=".55"><path d="M162 154 H1380"/></g>
+  <g fill="url(#gold)" filter="url(#glow)">
+    <circle cx="160" cy="154" r="52"/><circle cx="400" cy="154" r="52"/><circle cx="640" cy="154" r="52"/><circle cx="880" cy="154" r="52"/><circle cx="1120" cy="154" r="52"/><circle cx="1360" cy="154" r="52"/>
+  </g>
+  <g fill="#061326" font-size="34" font-weight="900">
+    <text x="160" y="166">01</text><text x="400" y="166">02</text><text x="640" y="166">03</text><text x="880" y="166">04</text><text x="1120" y="166">05</text><text x="1360" y="166">06</text>
+  </g>
+  <g fill="#fff2bd" font-size="25" font-weight="900">
+    <text x="160" y="250">Mission</text><text x="400" y="250">Agents</text><text x="640" y="250">Validation</text><text x="880" y="250">Evidence</text><text x="1120" y="250">Archive</text><text x="1360" y="250">Stronger Cycle</text>
+  </g>
+</g></svg>

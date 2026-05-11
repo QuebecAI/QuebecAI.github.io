@@ -1,0 +1,19 @@
+{
+  "name": "QUEBEC.AI Proof Room",
+  "url": "https://QuebecAI.github.io/proof-room/",
+  "status": "public evidence layer initialized",
+  "evidence_dockets": [
+    "ED-001-ai-first-executive-intelligence-briefing"
+  ],
+  "proofbundles": [
+    "PB-ED001-QUEBEC-AI-PROOF-ROOM"
+  ],
+  "core_loop": [
+    "mission",
+    "agents",
+    "validation",
+    "evidence",
+    "capability_archive",
+    "stronger_next_cycle"
+  ]
+}

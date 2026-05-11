@@ -1,0 +1,30 @@
+{
+  "proofbundle_id": "PB-ED001-QUEBEC-AI-PROOF-ROOM",
+  "docket_id": "ED-001-ai-first-executive-intelligence-briefing",
+  "status": "public demonstration example",
+  "mission": "Transform a standard executive briefing into reusable AI-First enterprise capability.",
+  "agent_constellation": [
+    "research agent",
+    "market signal agent",
+    "risk and governance agent",
+    "synthesis agent",
+    "validator agent"
+  ],
+  "validation_checks": [
+    "clarity",
+    "usefulness",
+    "evidence quality",
+    "risk framing",
+    "governance fit",
+    "reusability"
+  ],
+  "reusable_assets": [
+    "briefing template",
+    "strategic question map",
+    "validation checklist",
+    "risk framing pattern",
+    "capability archive record"
+  ],
+  "claim_boundary": "Demonstration of public evidence format. Stronger claims require live tasks, external review, benchmark comparisons, replay logs, cost/safety ledgers, and independent reproduction.",
+  "signature": "Agents discover. Validators prove. Memory preserves. Governance controls. The enterprise compounds."
+}

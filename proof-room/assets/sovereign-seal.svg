@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Gold fleur-de-lys seal">
+  <defs>
+    <radialGradient id="g" cx="42%" cy="28%" r="72%">
+      <stop offset="0" stop-color="#fff6c9"/>
+      <stop offset=".22" stop-color="#ffe18a"/>
+      <stop offset=".45" stop-color="#d49b39"/>
+      <stop offset=".72" stop-color="#8f5b12"/>
+      <stop offset="1" stop-color="#f6d983"/>
+    </radialGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="8" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="512" height="512" rx="84" fill="#050c18"/>
+  <circle cx="256" cy="256" r="220" fill="none" stroke="#d6a24a" stroke-width="6" opacity=".78"/>
+  <circle cx="256" cy="256" r="190" fill="none" stroke="#fff0b6" stroke-width="2" opacity=".34"/>
+  <text x="256" y="329" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="292" fill="url(#g)" filter="url(#glow)">⚜</text>
+  <g fill="#ffe08a" filter="url(#glow)">
+    <path d="M256 44l10 24 24 10-24 10-10 24-10-24-24-10 24-10z"/>
+    <path d="M78 246l7 16 16 7-16 7-7 16-7-16-16-7 16-7z"/>
+    <path d="M434 246l7 16 16 7-16 7-7 16-7-16-16-7 16-7z"/>
+    <path d="M256 420l8 19 19 8-19 8-8 19-8-19-19-8 19-8z"/>
+  </g>
+</svg>
