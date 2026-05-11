@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://QuebecAI.github.io/proof-room/sitemap.xml

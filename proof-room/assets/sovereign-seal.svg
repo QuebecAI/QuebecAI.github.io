@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 220" role="img" aria-label="QUEBEC.AI premium gold fleur-de-lys seal">
+  <defs>
+    <radialGradient id="aura" cx="50%" cy="44%" r="64%"><stop offset="0" stop-color="#fff6c8" stop-opacity=".74"/><stop offset=".45" stop-color="#d7a84a" stop-opacity=".20"/><stop offset="1" stop-color="#001028" stop-opacity="0"/></radialGradient>
+    <linearGradient id="gold" x1="0" x2="1" y1="0" y2="1"><stop offset="0" stop-color="#fff9dc"/><stop offset=".18" stop-color="#ffe585"/><stop offset=".42" stop-color="#c98728"/><stop offset=".63" stop-color="#fff0a2"/><stop offset=".82" stop-color="#a85f12"/><stop offset="1" stop-color="#ffd987"/></linearGradient>
+    <linearGradient id="ring" x1="0" x2="1" y1="0" y2="1"><stop offset="0" stop-color="#fff0a8"/><stop offset=".45" stop-color="#c8892e"/><stop offset="1" stop-color="#704006"/></linearGradient>
+    <filter id="glow" x="-70%" y="-70%" width="240%" height="240%"><feDropShadow dx="0" dy="4" stdDeviation="5" flood-color="#000" flood-opacity=".55"/><feDropShadow dx="0" dy="0" stdDeviation="11" flood-color="#ffd36b" flood-opacity=".33"/></filter>
+    <path id="star" d="M0,-10 L2,-2 L10,0 L2,2 L0,10 L-2,2 L-10,0 L-2,-2Z"/>
+  </defs>
+  <circle cx="110" cy="110" r="106" fill="url(#aura)"/>
+  <circle cx="110" cy="110" r="88" fill="#061524" fill-opacity=".72" stroke="url(#ring)" stroke-width="3"/>
+  <circle cx="110" cy="110" r="72" fill="none" stroke="#f5cb6b" stroke-width="1.25" opacity=".55"/>
+  <g fill="url(#gold)" filter="url(#glow)">
+    <use href="#star" transform="translate(110 24) scale(.80)"/><use href="#star" transform="translate(42 82) scale(.52)"/><use href="#star" transform="translate(178 82) scale(.52)"/><use href="#star" transform="translate(110 190) scale(.52)"/>
+    <text x="110" y="152" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="140" font-weight="700" fill="url(#gold)" stroke="#764108" stroke-width="1.6" paint-order="stroke fill">⚜</text>
+  </g>
+</svg>
