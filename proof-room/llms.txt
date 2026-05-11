@@ -1,12 +1,5 @@
 # QUEBEC.AI Proof Room
 
-Purpose: Public evidence layer for how successful enterprise work becomes governed, verified, reusable AI-First capability.
+The Proof Room is a public evidence layer showing how successful enterprise work becomes governed, verified, reusable AI-First capability.
 
-Primary URL: https://QuebecAI.github.io/proof-room/
-
-Key pages:
-- /proof-room/
-- /proof-room/dockets/ED-001-ai-first-executive-intelligence-briefing/
-- /proof-room/proofbundles/
-- /proof-room/capability-archive/
-- /proof-room/review/
+Core loop: mission → agents → validation → evidence → capability archive → stronger next cycle.
